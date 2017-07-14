@@ -1,0 +1,5 @@
+D:\iivanovCharpPrograms\Barracks\Barracks\bin\Debug\Barracks.exe.config
+D:\iivanovCharpPrograms\Barracks\Barracks\bin\Debug\Barracks.exe
+D:\iivanovCharpPrograms\Barracks\Barracks\bin\Debug\Barracks.pdb
+D:\iivanovCharpPrograms\Barracks\Barracks\obj\Debug\Barracks.exe
+D:\iivanovCharpPrograms\Barracks\Barracks\obj\Debug\Barracks.pdb
