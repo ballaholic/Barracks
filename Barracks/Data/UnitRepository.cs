@@ -1,13 +1,12 @@
 ﻿namespace Barracks.Data
 {
-    using System;
     using System.Text;
     using System.Collections.Generic;
     using Barracks.Contracts;
 
     public class UnitRepository : IRepository
     {
-        private IDictionary<string, int> amountOfUnits;
+        private readonly IDictionary<string, int> amountOfUnits;
 
         public UnitRepository()
         {

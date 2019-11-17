@@ -3,3 +3,9 @@ D:\iivanovCharpPrograms\Barracks\Barracks\bin\Debug\Barracks.exe
 D:\iivanovCharpPrograms\Barracks\Barracks\bin\Debug\Barracks.pdb
 D:\iivanovCharpPrograms\Barracks\Barracks\obj\Debug\Barracks.exe
 D:\iivanovCharpPrograms\Barracks\Barracks\obj\Debug\Barracks.pdb
+D:\Code\Repositories\Barracks\Barracks\bin\Debug\Barracks.exe.config
+D:\Code\Repositories\Barracks\Barracks\bin\Debug\Barracks.exe
+D:\Code\Repositories\Barracks\Barracks\bin\Debug\Barracks.pdb
+D:\Code\Repositories\Barracks\Barracks\obj\Debug\Barracks.csprojAssemblyReference.cache
+D:\Code\Repositories\Barracks\Barracks\obj\Debug\Barracks.exe
+D:\Code\Repositories\Barracks\Barracks\obj\Debug\Barracks.pdb
